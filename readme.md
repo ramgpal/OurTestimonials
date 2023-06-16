@@ -1,8 +1,4 @@
-## OurTestimonials
-
-OurTestimonials is a project that allows businesses and individuals to collect, manage, and display testimonials from satisfied customers.
-## Features
-
-
 ## Demo
-![Screenshot 1](./public/Demo.png)
+![image](https://github.com/ramgpal/OurTestimonials/assets/104793330/e6409993-0ad7-4d64-ae19-f968837c3ef4)
+
+
